@@ -1,0 +1,120 @@
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\ERICK\Documents\progra_avanzada_U2\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2013\Projects\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Documents\Escuela\Progra\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\Jose\Documents\Escuela\Progra\New folder\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Documents\Escuela\Progra\New folder\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Documents\Escuela\Progra\New folder\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Documents\Escuela\Progra\New folder\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Documents\Escuela\Progra\Leds + arduino\Controlar Arduino\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Desktop\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\LUZARS_inalambrico\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Desktop\Ace 4 archivos\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Desktop\Seguidor\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\Jose\Desktop\Seguidor\pid decimales\Interfaz de control\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Form1.resources
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+C:\Users\INGENIERIA\Desktop\Control PID Temperatura\Iinterfaz\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.Cache
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.config
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\bin\Debug\puerto_serial.pdb
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\bin\Debug\puerto_serial.xml
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbprojAssemblyReference.cache
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Resources.resources
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.GenerateResource.cache
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.vbproj.CoreCompileInputs.cache
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.xml
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.pdb
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\bin\Debug\puerto_serial.exe.manifest
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\bin\Debug\puerto_serial.application
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.exe.manifest
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.application
+D:\Tutoriales esp32 Visual\Visual Studio\puerto_serial\puerto_serial\puerto_serial\obj\Debug\puerto_serial.Xbox_One_Control.resources
